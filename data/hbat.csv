@@ -1,0 +1,101 @@
+"","id","x1","x2","x3","x4","x5","x6","x7","x8","x9","x10","x11","x12","x13","x14","x15","x16","x17","x18","x19","x20","x21","x22","x23","X24"
+"1",1,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",8.5,3.9,2.5,5.9,4.8,4.9,6,6.8,4.7,4.3,5,5.1,3.7,8.2,8,8.4,65.1,"Yes, would consider",2
+"2",2,"Over 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Indirect through broker",8.2,2.7,5.1,7.2,3.4,7.9,3.1,5.3,5.5,4,3.9,4.3,4.9,5.7,6.5,7.5,67.1,"No, would not consider",1
+"3",3,"Over 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",9.2,3.4,5.6,5.6,5.4,7.4,5.8,4.5,6.2,4.6,5.4,4,4.5,8.9,8.4,9,72.1,"Yes, would consider",3
+"4",4,"Less than 1 year","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",6.4,3.3,7,3.7,4.7,4.7,4.5,8.8,7,3.6,4.3,4.1,3,4.8,6,7.2,40.1,"No, would not consider",1
+"5",5,"1 to 5 years","Magazine industry","Large (500+)","USA/North America","Direct to customer",9,3.4,5.2,4.6,2.2,6,4.5,6.8,6.1,4.5,4.5,3.5,3.5,7.1,6.6,9,57.1,"No, would not consider",2
+"6",6,"Less than 1 year","Newsprint industry","Small (0 to 499)","Outside North America","Indirect through broker",6.5,2.8,3.1,4.1,4,4.3,3.7,8.5,5.1,9.5,3.6,4.7,3.3,4.7,6.3,6.1,50.1,"No, would not consider",3
+"7",7,"Less than 1 year","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",6.9,3.7,5,2.6,2.1,2.3,5.4,8.9,4.8,2.5,2.1,4.2,2,5.7,7.8,7.2,41.1,"No, would not consider",1
+"8",8,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Indirect through broker",6.2,3.3,3.9,4.8,4.6,3.6,5.1,6.9,5.4,4.8,4.3,6.3,3.7,6.3,5.8,7.7,56.1,"No, would not consider",3
+"9",9,"1 to 5 years","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",5.8,3.6,5.1,6.7,3.7,5.9,5.8,9.3,5.9,4.4,4.4,6.1,4.6,7,7.5,8.2,56.1,"Yes, would consider",3
+"10",10,"Less than 1 year","Magazine industry","Large (500+)","Outside North America","Indirect through broker",6.4,4.5,5.1,6.1,4.7,5.7,5.7,8.4,5.4,5.3,4.1,5.8,4.4,5.5,5.9,6.7,59.1,"No, would not consider",2
+"11",11,"Over 5 years","Magazine industry","Large (500+)","USA/North America","Direct to customer",8.7,3.2,4.6,4.8,2.7,6.8,4.6,6.8,5.8,7.5,3.8,3.7,4,7.4,7,8.4,68.1,"No, would not consider",2
+"12",12,"Less than 1 year","Magazine industry","Large (500+)","Outside North America","Indirect through broker",6.1,4.9,6.3,3.9,4.4,3.9,6.4,8.2,5.8,5.9,3,4.9,3.2,6,6.3,6.6,53.1,"No, would not consider",2
+"13",13,"Less than 1 year","Newsprint industry","Small (0 to 499)","USA/North America","Direct to customer",9.5,5.6,4.6,6.9,5,6.9,6.6,7.6,6.5,5.3,5.1,4.5,4.4,8.4,8.4,7.9,58.1,"Yes, would consider",2
+"14",14,"Over 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Direct to customer",9.2,3.9,5.7,5.5,2.4,8.4,4.8,7.1,6.7,3,4.5,2.6,4.2,7.6,6.9,8.2,72.1,"Yes, would consider",1
+"15",15,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",6.3,4.5,4.7,6.9,4.5,6.8,5.9,8.8,6,5.4,4.8,6.2,5.2,8,7,7.6,62.1,"Yes, would consider",1
+"16",16,"Over 5 years","Magazine industry","Small (0 to 499)","USA/North America","Indirect through broker",8.7,3.2,4,6.8,3.2,7.8,3.8,4.9,6.1,5,4.3,3.9,4.5,6.6,6.4,7.1,71.1,"No, would not consider",1
+"17",17,"1 to 5 years","Newsprint industry","Small (0 to 499)","Outside North America","Direct to customer",5.7,4,6.7,6,3.3,5.5,5.1,6.2,6.7,5.4,4.2,6.2,4.5,6.4,7.5,7.2,50.1,"Yes, would consider",3
+"18",18,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Indirect through broker",5.9,4.1,5.5,7.2,3.5,6.4,5.5,8.4,6.2,6.3,5.7,5.8,4.8,7.4,6.9,8.2,58.1,"Yes, would consider",1
+"19",19,"1 to 5 years","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",5.6,3.4,5.1,6.4,3.7,5.7,5.6,9.1,5.4,6.1,5,6,4.5,6.8,7.5,7.9,55.1,"No, would not consider",1
+"20",20,"Over 5 years","Magazine industry","Large (500+)","Outside North America","Indirect through broker",9.1,4.5,3.6,6.4,5.3,5.3,7.1,8.4,5.8,6.7,4.5,6.1,4.4,7.6,8.5,8.8,67.1,"Yes, would consider",1
+"21",21,"Less than 1 year","Magazine industry","Small (0 to 499)","Outside North America","Indirect through broker",5.2,3.8,7.1,5.2,3.9,4.3,5,8.4,7.1,4.6,3.3,4.9,3.3,5.4,5.5,7,50.1,"No, would not consider",1
+"22",22,"Over 5 years","Newsprint industry","Large (500+)","Outside North America","Direct to customer",9.6,5.7,6.8,5.9,5.4,8.3,7.8,4.5,6.4,6.5,4.3,3,4.3,9.9,9.6,9.9,70.1,"Yes, would consider",10
+"23",23,"1 to 5 years","Magazine industry","Small (0 to 499)","USA/North America","Direct to customer",8.6,3.6,7.4,5.1,3.5,7.3,4.7,3.7,6.7,6,4.8,3.4,4,7,7.1,8.1,60.1,"No, would not consider",1
+"24",24,"Over 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",9.3,2.4,2.6,7.2,2.2,7.2,4.5,6.2,6.4,4.2,6.7,4.4,4.5,8.6,8.1,8,65.1,"Yes, would consider",1
+"25",25,"Less than 1 year","Magazine industry","Small (0 to 499)","Outside North America","Indirect through broker",6,4.1,5.3,4.7,3.5,5.3,5.3,8,6.5,3.9,4.7,5.3,4,4.8,4.9,5.5,55.1,"No, would not consider",3
+"26",26,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Indirect through broker",6.4,3.6,6.6,6.1,4,3.9,5.3,7.1,6.1,3.7,5.6,6.6,3.9,6.6,6.8,7,58.1,"No, would not consider",3
+"27",27,"Over 5 years","Magazine industry","Small (0 to 499)","USA/North America","Indirect through broker",8.5,3,7.2,5.8,4.1,7.6,3.7,4.8,6.9,6.7,5.3,3.8,4.4,6.3,7.1,7,70.1,"No, would not consider",2
+"28",28,"Less than 1 year","Newsprint industry","Small (0 to 499)","Outside North America","Indirect through broker",7,3.3,5.4,5.5,2.6,4.8,4.2,9,6.5,5.9,4.3,5.2,3.7,5.4,5.5,5.6,55.1,"No, would not consider",2
+"29",29,"Over 5 years","Magazine industry","Small (0 to 499)","USA/North America","Indirect through broker",8.5,3,5.7,6,2.3,7.6,3.7,4.8,5.8,6,5.7,3.8,4.4,6.3,6.9,7.2,70.1,"No, would not consider",3
+"30",30,"Less than 1 year","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",7.6,3.6,3,4,5.1,4.2,4.6,7.7,4.9,7.2,4.7,5.5,3.5,5.4,5.5,6.2,52.1,"No, would not consider",3
+"31",31,"Less than 1 year","Newsprint industry","Small (0 to 499)","USA/North America","Direct to customer",6.9,3.4,8.5,4.3,4.5,6.4,4.7,5.2,7.7,3.3,3.7,2.7,3.3,6.1,6.8,7.1,44.1,"No, would not consider",6
+"32",32,"Less than 1 year","Magazine industry","Large (500+)","Outside North America","Indirect through broker",8.1,2.5,7.2,4.5,2.3,5.1,3.8,6.6,6.8,6.1,3,3.5,3,6.4,5.8,6.2,51.1,"No, would not consider",2
+"33",33,"Less than 1 year","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",6.7,3.7,6.5,5.3,5.3,5.1,4.9,9.2,5.7,4.2,3.5,4.5,3.4,5.4,6.5,7.6,44.1,"No, would not consider",2
+"34",34,"1 to 5 years","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",8,3.3,6.1,5.7,5.5,4.6,4.7,8.7,5.9,3.8,4.7,6.6,4.2,7.3,7.5,9,62.1,"Yes, would consider",1
+"35",35,"Less than 1 year","Magazine industry","Large (500+)","Outside North America","Indirect through broker",6.7,4,5.2,3.9,3,5.4,6.8,8.4,6.2,6,2.5,4.3,3.5,6.3,6.6,6.7,54.1,"No, would not consider",7
+"36",36,"Less than 1 year","Magazine industry","Small (0 to 499)","USA/North America","Indirect through broker",8.7,3.2,6.1,4.3,3.5,6.1,2.9,5.6,6.1,6.5,3.1,2.9,2.5,5.4,4.6,7.1,51.1,"No, would not consider",2
+"37",37,"1 to 5 years","Magazine industry","Small (0 to 499)","USA/North America","Direct to customer",9,3.4,5.9,4.6,3.9,6,4.5,6.8,6.4,4.3,3.9,3.5,3.5,7.1,8,7.2,57.1,"No, would not consider",9
+"38",38,"Over 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",9.6,4.1,6.2,7.3,2.9,7.7,5.5,7.7,6.1,4.4,5.2,4.6,4.9,8.7,9.9,9.9,77.1,"Yes, would consider",3
+"39",39,"1 to 5 years","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",8.2,3.6,3.9,6.2,5.8,4.9,5,9,5.2,7.1,4.7,6.9,4.5,7.6,6.9,7.6,65.1,"Yes, would consider",3
+"40",40,"Less than 1 year","Magazine industry","Small (0 to 499)","Outside North America","Indirect through broker",6.1,4.9,3,4.8,5.1,3.9,6.4,8.2,5.1,6.8,4.5,4.9,3.2,6,5.5,5.8,53.1,"No, would not consider",2
+"41",41,"1 to 5 years","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",8.3,3.4,3.3,5.5,3.1,4.6,5.2,9.1,4.1,1.7,4.6,5.8,3.9,7,7.5,8.4,61.1,"Yes, would consider",3
+"42",42,"1 to 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Direct to customer",9.4,3.8,4.7,5.4,3.8,6.5,4.9,8.5,4.9,6.2,4.1,4.5,4.1,7.6,8,7.9,61.1,"Yes, would consider",3
+"43",43,"Over 5 years","Magazine industry","Large (500+)","USA/North America","Direct to customer",9.3,5.1,4.6,6.8,5.8,6.6,6.3,7.4,5.1,4.1,4.6,4.6,4.3,8.9,7.8,7.6,72.1,"Yes, would consider",3
+"44",44,"1 to 5 years","Newsprint industry","Large (500+)","Outside North America","Direct to customer",5.1,5.1,6.6,6.9,4.4,5.4,7.8,5.9,7.2,5.2,4.9,6.3,4.5,7.6,7.9,8.4,55.1,"Yes, would consider",2
+"45",45,"Over 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Indirect through broker",8,2.5,4.7,7.1,3.6,7.7,3,5.2,5.1,3.9,4.3,4.2,4.7,5.5,5.6,6.5,65.1,"No, would not consider",2
+"46",46,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Indirect through broker",5.9,4.1,5.7,5.9,5.8,6.4,5.5,8.4,6.4,5.1,5.2,5.8,4.8,7.4,8.6,7.7,58.1,"Yes, would consider",9
+"47",47,"Over 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Direct to customer",10,4.3,7.1,6.3,2.9,5.4,4.5,3.8,6.7,3.7,5,4,3.5,7.1,8.8,8,67.1,"Yes, would consider",3
+"48",48,"1 to 5 years","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",5.7,3.8,6.8,7.5,5.7,5.7,6,8.2,6.6,4.8,6.5,7.3,5.2,7.6,7.6,7.1,60.1,"No, would not consider",9
+"49",49,"Over 5 years","Magazine industry","Small (0 to 499)","Outside North America","Direct to customer",9.9,3.7,3.7,6.1,4.2,7,6.7,6.8,5.9,7.2,4.5,3.4,3.9,8.7,8.1,8.5,67.1,"Yes, would consider",3
+"50",50,"Over 5 years","Newsprint industry","Large (500+)","USA/North America","Direct to customer",7.9,3.9,4.3,5.8,4.4,6.9,5.8,4.7,5.2,3.6,4.1,4.2,4.3,8.6,7.8,7.6,61.1,"Yes, would consider",2
+"51",51,"Less than 1 year","Magazine industry","Large (500+)","Outside North America","Indirect through broker",6.7,3.6,5.9,4.2,3.4,4.7,4.8,7.2,5.7,5.3,4,3.6,2.8,5.4,7.5,7.2,48.1,"No, would not consider",1
+"52",52,"Over 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Indirect through broker",8.2,2.7,3.7,7.4,2.7,7.9,3.1,5.3,5.3,5,4.5,4.3,4.9,5.7,7.1,8.2,67.1,"Yes, would consider",3
+"53",53,"Over 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",9.4,2.5,4.8,6.1,3.2,7.3,4.6,6.3,6.3,9.2,4.7,4.6,4.6,8.7,9,9,66.1,"Yes, would consider",3
+"54",54,"Less than 1 year","Newsprint industry","Small (0 to 499)","USA/North America","Direct to customer",6.9,3.4,5.7,4.4,3.3,6.4,4.7,5.2,6.4,4.4,3.2,2.7,3.3,6.1,7,7.2,44.1,"No, would not consider",1
+"55",55,"1 to 5 years","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",8,3.3,3.8,5.8,3.2,4.6,4.7,8.7,5.3,4.2,4.9,6.6,4.2,7.3,8.1,8.1,62.1,"Yes, would consider",1
+"56",56,"Over 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Indirect through broker",9.3,3.8,7.3,5.7,3.7,6.4,5.5,7.4,6.6,5.9,4.1,3.2,3.4,7.7,7.6,8.9,59.1,"Yes, would consider",1
+"57",57,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",7.4,5.1,4.8,7.7,4.5,7.2,6.9,9.6,6.4,7.4,5.7,6.5,5.5,9,7.9,8.8,74.1,"Yes, would consider",2
+"58",58,"Over 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Indirect through broker",7.6,3.6,5.2,5.8,5.6,6.6,5.4,4.4,6.7,6.4,4.6,3.9,4,8.2,7.5,7.5,58.1,"Yes, would consider",3
+"59",59,"Over 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Indirect through broker",10,4.3,5.3,3.7,4.2,5.4,4.5,3.8,6.7,4.5,3.7,4,3.5,7.1,6.5,7,67.1,"No, would not consider",1
+"60",60,"Over 5 years","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",9.9,2.8,7.2,6.9,2.6,5.8,3.5,5.4,6.2,7,5.6,4.9,4,7.9,8.5,8.5,61.1,"Yes, would consider",1
+"61",61,"Over 5 years","Magazine industry","Small (0 to 499)","USA/North America","Indirect through broker",8.7,3.2,8.4,6.1,2.8,7.8,3.8,4.9,7.2,4.5,5.4,3.9,4.5,6.6,6.9,7.2,71.1,"Yes, would consider",2
+"62",62,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",8.4,3.8,6.7,5,4.5,4.7,5.9,6.7,5.1,4.2,2.7,5,3.6,8,7.6,8.8,63.1,"Yes, would consider",3
+"63",63,"Less than 1 year","Magazine industry","Small (0 to 499)","USA/North America","Direct to customer",8.8,3.9,3.8,5.1,4.3,4.7,4.8,5.8,5,7.2,4.4,3.7,2.9,6.3,5.5,8,44.1,"No, would not consider",9
+"64",64,"Less than 1 year","Magazine industry","Large (500+)","Outside North America","Indirect through broker",7.7,2.2,6.3,4.5,2.4,4.7,3.4,6.2,6,4.7,3.3,3.1,2.6,6,6,8.1,47.1,"No, would not consider",3
+"65",65,"Less than 1 year","Magazine industry","Large (500+)","Outside North America","Indirect through broker",6.6,3.6,5.8,4.1,4.9,4.7,4.8,7.2,6.5,3.9,3.5,3.6,2.8,5.4,6.9,7.1,48.1,"No, would not consider",1
+"66",66,"1 to 5 years","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",5.7,3.8,3.5,6.7,5.4,5.7,6,8.2,5.4,5,4.7,7.3,5.2,7.6,6.9,9,60.1,"Yes, would consider",2
+"67",67,"1 to 5 years","Newsprint industry","Small (0 to 499)","Outside North America","Indirect through broker",5.7,4,7.9,6.4,2.7,5.5,5.1,6.2,7.5,6.4,5,6.2,4.5,6.4,5.6,6.2,50.1,"No, would not consider",9
+"68",68,"1 to 5 years","Newsprint industry","Small (0 to 499)","Outside North America","Direct to customer",5.5,3.7,4.7,5.4,4.3,5.3,4.9,6,5.6,2.5,4.5,5.9,4.3,6.1,6.3,8.2,48.1,"No, would not consider",3
+"69",69,"Less than 1 year","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",7.5,3.5,3.8,3.5,2.9,4.1,4.5,7.6,5.1,5.2,4,5.4,3.4,5.2,5.8,5.8,51.1,"No, would not consider",1
+"70",70,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Indirect through broker",6.4,3.6,2.7,5.3,3.9,3.9,5.3,7.1,5.2,5.5,4.7,6.6,3.9,6.6,6.6,8,58.1,"Yes, would consider",3
+"71",71,"Over 5 years","Magazine industry","Small (0 to 499)","Outside North America","Indirect through broker",9.1,4.5,6.1,5.9,6.3,5.3,7.1,8.4,7.1,5.7,5.4,6.1,4.4,7.6,7.5,7.7,67.1,"No, would not consider",2
+"72",72,"Less than 1 year","Newsprint industry","Small (0 to 499)","USA/North America","Direct to customer",6.7,3.2,3,3.7,4.8,6.3,4.5,5,5.2,2.5,2.9,2.6,3.1,5.8,6,7,43.1,"No, would not consider",3
+"73",73,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Indirect through broker",6.5,4.3,2.7,6.6,6.5,6.3,6,8.7,4.7,6.3,4.6,5.6,4.6,7.9,6.6,7.9,66.1,"No, would not consider",1
+"74",74,"Over 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",9.9,3.7,7.5,4.7,5.6,7,6.7,6.8,7.2,4.6,4.1,3.4,3.9,8.6,8.8,9.8,66.1,"Yes, would consider",1
+"75",75,"1 to 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",8.5,3.9,5.3,5.5,5,4.9,6,6.8,5.7,3.6,4.4,5.1,3.7,8.2,7,8.4,65.1,"Yes, would consider",2
+"76",76,"Over 5 years","Magazine industry","Small (0 to 499)","USA/North America","Indirect through broker",9.9,3,6.8,5,5.4,5.9,4.8,4.9,7.3,7.6,3.1,4.3,3.8,7.1,6.6,8.9,63.1,"Yes, would consider",3
+"77",77,"Less than 1 year","Magazine industry","Small (0 to 499)","Outside North America","Direct to customer",7.6,3.6,7.6,4.6,4.7,4.6,5,7.4,8.1,6.6,4.5,5.8,3.9,6.4,6.9,7.5,49.1,"No, would not consider",3
+"78",78,"1 to 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Direct to customer",9.4,3.8,7,6.2,4.7,6.5,4.9,8.5,7.3,2.4,4.3,4.5,4.1,7.6,7.3,8,61.1,"Yes, would consider",3
+"79",79,"Over 5 years","Magazine industry","Small (0 to 499)","USA/North America","Direct to customer",9.3,3.5,6.3,7.6,5.5,7.5,5.9,4.6,6.6,3.1,5.2,4.1,4.6,8.9,7.3,8.1,72.1,"Yes, would consider",1
+"80",80,"Less than 1 year","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",7.1,3.4,4.9,4.1,4,5,5.9,7.8,6.1,3.5,2.6,3.1,2.7,5.7,5.8,7.6,44.1,"No, would not consider",4
+"81",81,"Over 5 years","Magazine industry","Large (500+)","USA/North America","Indirect through broker",9.9,3,7.4,4.8,4,5.9,4.8,4.9,5.9,6.9,3.2,4.3,3.8,7.1,7.9,8.8,63.1,"No, would not consider",2
+"82",82,"Over 5 years","Magazine industry","Small (0 to 499)","USA/North America","Indirect through broker",8.7,3.2,6.4,4.9,2.4,6.8,4.6,6.8,6.3,5.1,4.3,3.7,4,7.4,7.3,8,68.1,"Yes, would consider",3
+"83",83,"1 to 5 years","Magazine industry","Small (0 to 499)","USA/North America","Direct to customer",8.6,2.9,5.8,3.9,2.9,5.6,4,6.3,6.1,4,2.7,3,3,6.6,6.1,8.5,53.1,"No, would not consider",1
+"84",84,"Less than 1 year","Newsprint industry","Small (0 to 499)","Outside North America","Indirect through broker",6.4,3.2,6.7,3.6,2.2,2.9,5,8.4,7.3,6.5,2,3.7,1.6,5,5.1,6.5,37.1,"No, would not consider",7
+"85",85,"1 to 5 years","Magazine industry","Small (0 to 499)","USA/North America","Direct to customer",7.7,2.6,6.7,6.6,1.9,7.2,4.3,5.9,6.5,4.1,4.7,3.9,4.3,8.2,7.5,7.7,52.1,"Yes, would consider",2
+"86",86,"Less than 1 year","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",7.5,3.5,4.1,4.5,3.5,4.1,4.5,7.6,4.9,2.8,3.4,5.4,3.4,5.2,6,7.2,51.1,"No, would not consider",3
+"87",87,"Less than 1 year","Magazine industry","Small (0 to 499)","Outside North America","Indirect through broker",5,3.6,1.3,3,3.5,4.2,4.9,8.2,4.3,7.6,2.4,4.8,3.1,5.2,5.5,6,48.1,"No, would not consider",1
+"88",88,"1 to 5 years","Magazine industry","Small (0 to 499)","USA/North America","Direct to customer",7.7,2.6,8,6.7,3.5,7.2,4.3,5.9,6.9,7.7,5.1,3.9,4.3,8.2,7.6,8.2,52.1,"No, would not consider",1
+"89",89,"1 to 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Direct to customer",9.1,3.6,5.5,5.4,4.2,6.2,4.6,8.3,6.5,4.1,4.6,4.3,3.9,7.3,6.5,7.4,59.1,"No, would not consider",2
+"90",90,"1 to 5 years","Newsprint industry","Small (0 to 499)","Outside North America","Direct to customer",5.5,5.5,7.7,7,5.6,5.7,8.2,6.3,7.4,4.9,5.5,6.7,4.9,8.2,7.6,9.3,59.1,"Yes, would consider",3
+"91",91,"Over 5 years","Newsprint industry","Small (0 to 499)","USA/North America","Indirect through broker",9.1,3.7,7,4.1,4.4,6.3,5.4,7.3,7.5,4.6,4.4,3,3.3,7.4,7.9,7.9,58.1,"Yes, would consider",3
+"92",92,"Less than 1 year","Newsprint industry","Small (0 to 499)","Outside North America","Indirect through broker",7.1,4.2,4.1,2.6,2.1,3.3,4.5,9.9,5.5,3.5,2,4,2.4,4.8,5,6.5,51.1,"No, would not consider",3
+"93",93,"Over 5 years","Newsprint industry","Large (500+)","USA/North America","Direct to customer",9.2,3.9,4.6,5.3,4.2,8.4,4.8,7.1,6.2,6.6,4.4,2.6,4.2,7.6,7.5,8.6,72.1,"No, would not consider",1
+"94",94,"Over 5 years","Magazine industry","Large (500+)","Outside North America","Direct to customer",9.3,3.5,5.4,7.8,4.6,7.5,5.9,4.6,6.4,4.9,4.8,4.1,4.6,8.9,7.6,8.9,72.1,"Yes, would consider",2
+"95",95,"Over 5 years","Newsprint industry","Large (500+)","USA/North America","Indirect through broker",9.3,3.8,4,4.6,4.7,6.4,5.5,7.4,5.3,4.8,3.6,3.2,3.4,7.7,7.3,8.4,59.1,"Yes, would consider",2
+"96",96,"Less than 1 year","Newsprint industry","Small (0 to 499)","USA/North America","Direct to customer",8.6,4.8,5.6,5.3,2.3,6,5.7,6.7,5.8,3.6,4.9,3.6,3.6,7.3,8.1,8.1,50.1,"Yes, would consider",8
+"97",97,"Less than 1 year","Magazine industry","Small (0 to 499)","Outside North America","Direct to customer",7.4,3.4,2.6,5,4.1,4.4,4.8,7.2,4.5,6.4,4.2,5.6,3.7,6.3,5.5,7.2,48.1,"No, would not consider",1
+"98",98,"Less than 1 year","Magazine industry","Small (0 to 499)","USA/North America","Direct to customer",8.7,3.2,3.3,3.2,3.1,6.1,2.9,5.6,5,4.3,3.1,2.9,2.5,5.4,7,7.7,51.1,"No, would not consider",3
+"99",99,"1 to 5 years","Newsprint industry","Small (0 to 499)","Outside North America","Direct to customer",7.8,4.9,5.8,5.3,5.2,5.3,7.1,7.9,6,5.7,4.3,4.9,3.9,6.4,7.1,7.4,61.1,"No, would not consider",1
+"100",100,"1 to 5 years","Newsprint industry","Large (500+)","Outside North America","Indirect through broker",7.9,3,4.4,5.1,5.9,4.2,4.8,9.7,5.7,5.8,3.4,5.4,3.5,6.4,7.3,7,57.1,"No, would not consider",8
